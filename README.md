@@ -1,3 +1,3 @@
 # Meta-Builder
 
-[Download](https://github.com/ImDR/Meta-Builder/blob/master/meta_builder.zip)
+[Download](https://github.com/ImDR/Meta-Builder/raw/master/meta_builder.zip)
